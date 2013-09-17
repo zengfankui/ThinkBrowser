@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>mainwindowicon.svg</file>
+    <file>defaultbookmarks.xbm</file>
+    <file>loading.gif</file>
+    <file>defaulticon.png</file>
+    <file>addtab.png</file>
+    <file>closetab.png</file>
+    <file>history.png</file>
+</qresource>
+</RCC>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel>
+<xbm version="1.0">
+    <folder folded="yes">
+        <title>书签栏</title>
+        <bookmark href="http://qt-project.org/">
+            <title>Qt主页</title>
+        </bookmark>
+        <bookmark href="http://webkit.org/">
+            <title>WebKit.org</title>
+        </bookmark>
+        <bookmark href="http://www.thinkbrowser.org/">
+            <title>项目主页</title>
+        </bookmark>
+    </folder>
+</xbm>
